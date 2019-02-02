@@ -1,5 +1,5 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 function destructivelyAddElementToBeginningOfArray(array, element){
-  chocolateBars.push(1, 'foo');
+  chocolateBars.push('foo', 1);
 }
