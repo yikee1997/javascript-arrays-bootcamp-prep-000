@@ -4,3 +4,4 @@ function addElementToBeginningOfArray(){
   var element = ["adsd"];
   addElementToBeginningOfArray(element, ...chocolateBars);
 }
+addElementToBeginningOfArray();
